@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Shell
+    x:Class="RealEstate.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:RealEstate.Pages"
+    Shell.FlyoutBehavior="Disabled"
+    Shell.NavBarIsVisible="False">
+    <!--Shell.NavBarIsVisible="False">-->
+    <!--NavBar će postati nevidljiv na svim dotle definiranim stranicama-->
+
+    <!--Prva stranica koja dolazi pri startu aplikacije-->
+    <ShellContent ContentTemplate="{DataTemplate pages:WelcomePage}"
+               Route="WelcomePage"/>
+
+    <!--Sve ostale stranice treba navigirati korisničkom akcijom-->
+    <!--NPR: await Shell.Current.GoToAsync("//UserLoginOrRegister");-->
+    <ShellContent ContentTemplate="{DataTemplate pages:LoginPage}"
+               Route="LoginPage"/>
+    <ShellContent ContentTemplate="{DataTemplate pages:RegisterPage}"
+               Route="RegisterPage"/>
+
+        <TabBar Route="Home" x:Name="bar">
+            <ShellContent Title="Home" Route="Tab1" ContentTemplate="{DataTemplate pages:Tab1}" Icon="home_icon"/>
+            <ShellContent Title="Search" Route="Tab2" ContentTemplate="{DataTemplate pages:Tab2}" Icon="search_icon"/>
+            <ShellContent Title="Saved" Route="Tab3" ContentTemplate="{DataTemplate pages:Tab3}" Icon="bookmark_icon"/>
+            <ShellContent Title="Settings" Route="Tab4" ContentTemplate="{DataTemplate pages:Tab4}" Icon="settings_icon"/>
+        </TabBar>
+
+</Shell>

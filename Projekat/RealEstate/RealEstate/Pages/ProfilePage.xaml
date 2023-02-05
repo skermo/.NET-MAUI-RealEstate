@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RealEstate.Pages.ProfilePage"
+             Title="ProfilePage">
+    <VerticalStackLayout>
+        <Border 
+                BackgroundColor="#1d94ab"
+                HeightRequest="70"
+                StrokeThickness="4"
+                Stroke="white"
+                >
+            <HorizontalStackLayout>
+                <Label Text="Profile"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="CenterAndExpand"
+               FontSize="Large"
+               TextColor="White"
+               Margin="150,0,100,0"/>
+                <ImageButton x:Name="ImgbackBtn"
+                         Source="back_icon"
+                         CornerRadius="10"
+                         BackgroundColor="White"
+                         HeightRequest="40"
+                         WidthRequest="40"
+                         Padding="5"
+                         HorizontalOptions="End"
+                         VerticalOptions="Center"
+                         Clicked="ImgbackBtn_Clicked"/>
+            </HorizontalStackLayout>
+        </Border>
+        <VerticalStackLayout Margin="20,40,20,40" Spacing="20">
+            <HorizontalStackLayout Spacing="20">
+                <Label Text="Name"
+                       VerticalOptions="Center"
+                       FontSize="Medium"/>
+                <Label x:Name="nameLbl"
+                       VerticalOptions="Center"
+                       FontSize="Medium"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Spacing="20">
+                <Label Text="Email"
+                       VerticalOptions="Center"
+                       FontSize="Medium"/>
+                <Label x:Name="emailLbl"
+                       VerticalOptions="Center"
+                       FontSize="Medium"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Spacing="20">
+                <Label Text="Phone"
+                       VerticalOptions="Center"
+                       FontSize="Medium"/>
+                <Label x:Name="phoneLbl"
+                       VerticalOptions="Center"
+                       FontSize="Medium"/>
+            </HorizontalStackLayout>
+
+        </VerticalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RealEstate
+build_property.ProjectDir = C:\Users\Korisnik\Desktop\Semra\Fakultet\V semestar\RMA\Projekat\RealEstate\RealEstate\
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/Pages/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.Pages.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\LoginPage.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/Pages/ProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.Pages.ProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProfilePage.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/Pages/PropertyDetail.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.Pages.PropertyDetail.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PropertyDetail.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PropertyDetail.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/Pages/PropertyList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.Pages.PropertyList.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PropertyList.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PropertyList.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/Pages/RegisterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.Pages.RegisterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RegisterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RegisterPage.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/Pages/Tab1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.Pages.Tab1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Tab1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Tab1.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/Pages/Tab2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.Pages.Tab2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Tab2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Tab2.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/Pages/Tab3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.Pages.Tab3.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Tab3.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Tab3.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/Pages/Tab4.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.Pages.Tab4.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Tab4.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Tab4.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/Pages/WelcomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.Pages.WelcomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\WelcomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\WelcomePage.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Korisnik/Desktop/Semra/Fakultet/V semestar/RMA/Projekat/RealEstate/RealEstate/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RealEstate.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
